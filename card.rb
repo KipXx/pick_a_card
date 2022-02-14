@@ -4,3 +4,4 @@ suits = [,'♦','♥','♣','♠']
 puts "#{values.sample} of #{suits.sample}"
 
 # comment
+# f
